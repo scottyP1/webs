@@ -1,0 +1,141 @@
+body {
+    background-image: url("/images/backgroungo.png.PNG");
+    background-size: 76%;
+    margin: 0 250px 0 250px;
+    text-align: center;
+}
+
+.header {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    position: relative;
+    background-color: white;
+}
+
+.header-image {
+    margin: 0;
+    display: inline-block;
+    height: 125px;
+    position: relative;
+    top:100px;
+    right: 400px;
+
+
+}
+h1 {
+    font-family: "Fantasy Fonts", Papyrus, serif;
+    font-size: 60px;
+    width: 40%;
+    margin: 0 auto;
+}
+
+h2 {
+    font-family: "Fantasy Fonts", Papyrus, serif;
+    font-size: 30px;
+    width: 40%;
+    margin: 0 auto
+
+}
+
+h3 {
+    font-size: 30px;
+}
+
+p {
+    font-family: Ariasans-serif, serif;
+    font-size: 20px;
+}
+div {
+    border: 0;
+}
+
+.top-container {
+    padding-top: 100px;
+    padding-bottom: 200px;
+    position: relative;
+    background-color:#c8bff6;
+ }
+
+.middle-container {
+    background-color: #cdc4fd;
+    padding: 50px;
+}
+
+.third-container {
+    background-color: #bdb5e9;
+    padding: 50px;
+}
+
+.bottom_container{
+    background-color: #A555EC;
+    padding: 50px;
+}
+
+.cloud1 {
+    display: inline-block;
+    position: absolute;
+    right: 300px;
+    top: 50px;
+
+}
+.cloud2 {
+    display: inline-block;
+    position: absolute;
+    left: 100px;
+
+}
+
+.mountain {
+    display: inline-block;
+}
+
+.baby_outfit_1 {
+    background: none;
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    padding-left: 20px;
+    position: relative;
+    right: 150px;
+
+}
+
+.baby_outfit_2 {
+    background: none;
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    right: 180px
+
+}
+
+.baby_outfit_3 {
+    background: none;
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    right: 200px;
+
+}
+
+.baby_outfit_4 {
+    background: none;
+    height: 350px;
+    width: 350px;
+    display: inline-block;
+    position: relative;
+    padding-right: 20px;
+    bottom: 354px;
+    left: 655px;
+
+}
+
+.baby-pic {
+    height: 300px;
+    width: 300px;
+    display: inline-block;
+    position: relative;
+    right: 180px
+}
